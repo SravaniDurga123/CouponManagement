@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4SkSByqpTgEtHZmCO6MhKJRI3sR2x2C0AExu2orMX3TOmwwqsfZdJpbxoyzE+JTwbixmdLoljM2OpH1UQiTFwg==",
+  "dgSpecHash": "QBObyfUDLgd1widxAGRz52L7rj84B3nJyTRZ4hLv6FEjv2C/DXOj+SyZL3O9igr1X1+ISpv/KRch6JEtV4/a0w==",
   "success": true,
-  "projectFilePath": "E:\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
+  "projectFilePath": "E:\\CaseStudy\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

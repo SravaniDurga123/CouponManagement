@@ -5165,11 +5165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CouponManagement\\SVC_UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "E:\\CaseStudy\\CouponManagement\\SVC_UserManagement\\UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "E:\\CouponManagement\\SVC_UserManagement\\UserManagement.csproj",
+      "projectPath": "E:\\CaseStudy\\CouponManagement\\SVC_UserManagement\\UserManagement.csproj",
       "packagesPath": "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\",
-      "outputPath": "E:\\CouponManagement\\SVC_UserManagement\\obj\\",
+      "outputPath": "E:\\CaseStudy\\CouponManagement\\SVC_UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maragani jagadeesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5185,8 +5185,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj": {
-              "projectPath": "E:\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj"
+            "E:\\CaseStudy\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj": {
+              "projectPath": "E:\\CaseStudy\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj"
             }
           }
         }

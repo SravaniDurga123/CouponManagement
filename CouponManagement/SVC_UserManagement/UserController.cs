@@ -23,7 +23,7 @@ namespace UserManagement
             _iUserManagementHelper = iUserManagementHelper;
         }
         /// <summary>
-        /// 
+        /// Registering new users
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>
@@ -43,7 +43,7 @@ namespace UserManagement
             }
         }
         /// <summary>
-        /// 
+        /// checking whwther the user is valid or not
         /// </summary>
         /// <param name="value"></param>
         /// <returns></returns>
@@ -63,7 +63,7 @@ namespace UserManagement
             }
         }
         /// <summary>
-        /// 
+        /// viewing profile of specific user
         /// </summary>
         /// <param name="userId"></param>
         /// <returns></returns>
@@ -81,7 +81,7 @@ namespace UserManagement
             }
         }
         /// <summary>
-        /// 
+        /// updating the details of user
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>

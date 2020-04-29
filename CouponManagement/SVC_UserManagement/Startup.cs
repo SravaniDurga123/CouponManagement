@@ -49,7 +49,14 @@ namespace UserManagement
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API USER V1");
+                c.RoutePrefix = string.Empty;
             });
+            //app.UseMvc(routes =>
+            //{
+            //    routes.MapRoute(
+            //        name: "default",
+            //        template: "{controller=v1}/{action=swagger.json}");
+            //});
 
             app.UseEndpoints(endpoints =>
             {

@@ -5000,11 +5000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
+      "projectUniqueName": "E:\\CaseStudy\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
       "projectName": "CouponManagementDBEntity",
-      "projectPath": "E:\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
+      "projectPath": "E:\\CaseStudy\\CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
       "packagesPath": "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\",
-      "outputPath": "E:\\CouponManagement\\SHR_DBEntity\\obj\\",
+      "outputPath": "E:\\CaseStudy\\CouponManagement\\SHR_DBEntity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maragani jagadeesh\\AppData\\Roaming\\NuGet\\NuGet.Config",

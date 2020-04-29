@@ -17,7 +17,7 @@ namespace UserManagement.Helper
         }
 
         /// <summary>
-        /// 
+        ///  viewing profile of specific user
         /// </summary>
         /// <param name="userId"></param>
         /// <returns></returns>
@@ -34,7 +34,7 @@ namespace UserManagement.Helper
             }
         }
         /// <summary>
-        /// 
+        /// updating the details of user
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>
@@ -55,7 +55,7 @@ namespace UserManagement.Helper
             }
         }
         /// <summary>
-        /// 
+        /// checking whwther the user is valid or not
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>
@@ -75,7 +75,7 @@ namespace UserManagement.Helper
             }
         }
         /// <summary>
-        /// 
+        /// Registering new users
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>
