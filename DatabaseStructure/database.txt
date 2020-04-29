@@ -1,0 +1,8 @@
+create table UserDetails(UserId int primary key identity(1,1),UserName varchar(30) unique not null,FirstName varchar(30) not null,LastName varchar(30) ,
+      UserPassword varchar(30) not null,EmailAddr varchar(30) not null,PhoneNumber varchar(12) ,CreateDate Datetime not null,
+	  UpdatedDate Datetime ,UserAddress varchar(500));
+
+
+create table CouponDetails(CouponId int primary key identity(1,1),CouponNumber varchar(20) not null,CouponStatus varchar(10) not null,
+       CouponStartDate datetime not null,CouponExpiredDate datetime not null,CreateDate datetime not null,UpdatedDate datetime,
+	   UserId int foreign key references UserDetails(UserId));
